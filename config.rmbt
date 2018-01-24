@@ -1,0 +1,15 @@
+{
+  "cnf_server_host": "bulk.se.monroe-system.eu",
+  "cnf_server_port": 10080,
+  "cnf_dl_duration_s": 1,
+  "cnf_ul_duration_s": 50,
+  "cnf_dl_pretest_duration_s": 1,
+  "cnf_ul_pretest_duration_s": 1,
+  "cnf_rtt_tcp_payload_num": 11,
+  "cnf_dl_wait_time_s": 20,
+  "cnf_ul_wait_time_s": 20,
+  "disabled_interfaces": ["lo", "eth0", "wlan0"],
+  "enabled_interfaces": ["wwan0", "op1"],
+  "modeminterfacename": "InterfaceName",
+  "cnf_ul_num_flows": 5
+}
