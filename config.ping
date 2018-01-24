@@ -1,0 +1,16 @@
+{
+      "guid": "no.guid.in.config.file",
+      "zmqport": "tcp://172.17.0.1:5556",
+      "nodeid": "fake.nodeid",
+      "server": "8.8.8.8",
+      "interval": 1000,
+      "dataversion": 2,
+      "dataid": "MONROE.EXP.PING",
+      "meta_grace": 120,
+      "ifup_interval_check": 5,
+      "export_interval": 5.0,
+      "verbosity": 2,
+      "modeminterfacename": "InterfaceName",
+      "interfaces_without_metadata": ["eth0",
+                                      "wlan0"]
+}
